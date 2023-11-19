@@ -3,7 +3,7 @@
 
 # Instruções para jogar no vs code
 
-Esse jogo foi criado para rodar em monitores acima de 19 polegadas, abaixo disso pode distorcer as imagens.
+Esse jogo foi criado para rodar em resolução acima de 1600x900 pixels, abaixo disso pode distorcer as imagens.
 
 Para jogar o jogo com som, instale a biblioteca pygame. 
 
